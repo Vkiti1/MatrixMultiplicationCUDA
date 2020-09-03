@@ -1,0 +1,2 @@
+E:\CUDA projects\MatrixMultiplicationCUDA\x64\Debug\MatrixMultiplicationCUDA.exe
+E:\CUDA projects\MatrixMultiplicationCUDA\x64\Debug\MatrixMultiplicationCUDA.pdb
